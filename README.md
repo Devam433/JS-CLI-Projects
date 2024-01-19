@@ -5,7 +5,7 @@ This game calculates the player's score based on correct and incorrect answers, 
 (🚨 Make sure that your machine has node installed)
 1. **Clone the repository:**
    ```bash
-   git clone   git clone https://github.com/your_userName/JS-CLI-Projects
+   git clone https://github.com/your_userName/JS-CLI-Projects
 
 2. **Navigate to the project directory:**
    ```bash
